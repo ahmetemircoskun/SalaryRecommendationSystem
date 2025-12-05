@@ -1,0 +1,39 @@
+# --- TEXT FILES ---
+*.py        text eol=lf
+*.md        text eol=lf
+*.txt       text eol=lf
+*.csv       text eol=lf
+*.json      text eol=lf
+*.yml       text eol=lf
+*.yaml      text eol=lf
+
+# --- NOTEBOOKS ---
+*.ipynb     text
+
+# Enable better diff for Jupyter notebooks on GitHub
+*.ipynb     linguist-language=Jupyter
+*.ipynb     diff=jupyternotebook
+
+# --- DATA FILES (binary-like, Git diff istemez) ---
+*.pkl       binary
+*.pickle    binary
+*.joblib    binary
+
+# --- IMAGE / MEDIA ---
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.svg       text
+
+# --- WINDOWS / UNIX END-OF-LINE KORUMASI ---
+* text=auto
+
+# --- FORCE LF FOR UNIX-LIKE ENVIRONMENTS ---
+*.sh        text eol=lf
+
+# --- MODEL FILES (opsiyonel olarak binary işaretlenir) ---
+*.h5        binary
+*.onnx      binary
+*.pt        binary
+*.bin       binary

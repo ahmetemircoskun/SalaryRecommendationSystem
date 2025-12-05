@@ -1,0 +1,67 @@
+# --- PYTHON GENERAL ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- PROJECT SPECIFIC ---
+# Raw data (exclude)
+data/raw/
+data/raw/*
+
+# Processed data (INCLUDE → do NOT ignore)
+# data/processed/     <-- intentionally NOT ignored
+
+# Cache, temp, exported plots
+*.log
+*.tmp
+*.cache
+*.pickle
+*.pkl
+*.joblib
+
+# Exports and generated files
+exports/
+outputs/
+figures/
+plots/
+
+# Reports generated automatically
+reports/generated/
+**/*.aux
+**/*.out
+**/*.toc
+
+# Jupyter Notebook error locks
+*.ipynb.lock
+
+# Python packaging artifacts
+build/
+dist/
+*.egg-info/
