@@ -1,4 +1,7 @@
-# 01 – Veri İşleme ve Temizlik Süreci (Data Processing Report)
+<details>
+  <summary>TÜRKÇE</summary>
+
+# 01 – Veri İşleme ve Temizlik Süreci
 
 Bu rapor, Introduction to Data Science projesi kapsamında kullanılan iki farklı maaş veri setinin (Salary Data ve Salary by Job Title and Country) sistematik biçimde birleştirilmesi, temizlenmesi, normalleştirilmesi ve modellemeye hazır hale getirilmesi için uygulanan tüm yöntemleri ayrıntılı şekilde açıklamaktadır. Süreç boyunca Python, Pandas ve veri ön işleme teknikleri kullanılmış, tüm adımlar notebook ortamında tekrarlanabilir bir pipeline hâline getirilmiştir.
 
@@ -6,7 +9,7 @@ Amaç, farklı kaynaklardan gelen verileri tutarlı, eksiksiz, duplicate içerme
 
 ---
 
-# 📌 Veri İşleme Adımlarının Ayrıntılı Açıklaması (Türkçe)
+# 📌 Veri İşleme Adımlarının Ayrıntılı Açıklaması
 
 ---
 
@@ -218,17 +221,20 @@ data/processed/main_salary_dataset.csv
 
 Data Quality Report aşamasında tespit edilen job title tutarsızlıkları düzeltilmiş; typo correction, string normalization ve semantic merging adımları uygulanarak nihai veri seti tekrar oluşturulmuştur.
 
----
+</details>
 
-# 01 – Data Processing Report (English Version)
+
+<details>
+  <summary>ENGLISH</summary>
+  
+# 01 – Data Processing Report
 
 This report documents the full preprocessing pipeline applied to the two salary datasets used in the project. All steps were implemented in Python using Pandas, ensuring a reproducible and structured workflow. The goal is to produce a unified, consistent, clean, duplicate-free, and statistically reliable dataset stored as `data/processed/main_salary_dataset.csv`.
 
 ---
 
-## 📌 Detailed Summary of Data Processing Steps (English)
+## 📌 Detailed Summary of Data Processing Steps
 
----
 
 ### 1. Dataset Loading and Initial Exploration
 
@@ -429,4 +435,5 @@ junior, senior
 ## 📝 Revision Notes
 
 After reviewing the Data Quality Report, additional normalization and typo correction were applied to job_title values. The dataset was regenerated to reflect these improvements, ensuring maximum consistency and modeling readiness.
+</details>
 
