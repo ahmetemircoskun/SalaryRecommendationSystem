@@ -1,0 +1,28 @@
+# ------------------------------------------------------------
+# Core dependencies for Salary Recommendation System
+# This file contains all external libraries used in the project.
+# ------------------------------------------------------------
+
+# Web UI framework used to build the interactive salary app
+streamlit
+
+# Data analysis & numerical operations
+pandas
+numpy
+
+# Machine learning library (RandomForest & model loading)
+scikit-learn
+
+# For loading serialized ML models (e.g., .pkl / .joblib files)
+joblib
+
+# Streamlit uses Altair for built-in chart rendering
+altair
+
+# ------------------------------------------------------------
+# Optional (but recommended) dependencies
+# These are used for running notebooks in the /notebooks folder.
+# If you never plan to open the notebooks, you may remove them.
+# ------------------------------------------------------------
+jupyter
+ipykernel
