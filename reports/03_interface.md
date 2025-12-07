@@ -87,7 +87,7 @@ Sonuç ekranı iki ana görsel içerir:
 ### A) Piyasa Dağılım Grafiği
 **Altair** ile çizilen interaktif grafik:
 - **Mavi Noktalar:** Gerçek çalışanlar.
-- **Kırmızı Nokta (YOU):** Kullanıcının tahmin edilen konumu.
+- **Kırmızı Nokta:** Kullanıcının tahmin edilen konumu.
 
 ### B) Akıllı Metrik Kartları
 Tahmini maaş, maaş aralığı ve gerçek veri kıyaslaması kartlar halinde sunulur.
