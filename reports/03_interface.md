@@ -197,7 +197,7 @@ The result screen consists of two main visual components:
 ### A) Market Distribution Chart
 An interactive Scatter Plot is rendered using **Altair**:
 - **Blue Dots:** Represent real employees in the dataset. Tooltips show details (Experience, Salary).
-- **Red Dot (YOU):** Represents the user's predicted position.
+- **Red Dot:** Represents the user's predicted position.
 
 This chart visually proves the user's position within the general market (identifying if they are an outlier).
 
