@@ -72,6 +72,7 @@ dosyalarına bakabilirsiniz.
   - Kaggle veri seti sayfalarında belirtilen lisans koşullarına uyun.
   - Orijinal veri seti sahiplerine atıf verin.
 
+</details>
 
 <details>
   <summary>ENGLISH</summary>
