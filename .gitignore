@@ -30,11 +30,6 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# --- PROJECT SPECIFIC ---
-# Raw data (exclude)
-data/raw/
-data/raw/*
-
 # Processed data (INCLUDE → do NOT ignore)
 # data/processed/     <-- intentionally NOT ignored
 
