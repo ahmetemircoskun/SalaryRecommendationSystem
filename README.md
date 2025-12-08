@@ -36,7 +36,7 @@ Beyond simple prediction, the system offers a comparative analysis tool. It visu
 ### Installation & Usage
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/ahmetemircoskun/SalaryRecommendationSystem.git](https://github.com/ahmetemircoskun/SalaryRecommendationSystem.git)
+    git clone (https://github.com/ahmetemircoskun/SalaryRecommendationSystem.git)
     ```
 2.  **Install Dependencies:**
     ```bash
@@ -81,7 +81,7 @@ Sistem sadece tahmin sunmakla kalmaz, aynı zamanda karşılaştırmalı bir ana
 ### Kurulum ve Kullanım
 1.  **Repoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/ahmetemircoskun/SalaryRecommendationSystem.git](https://github.com/ahmetemircoskun/SalaryRecommendationSystem.git)
+    git clone (https://github.com/ahmetemircoskun/SalaryRecommendationSystem.git)
     ```
 2.  **Kütüphaneleri Yükleyin:**
     ```bash
