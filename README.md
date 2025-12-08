@@ -110,7 +110,7 @@ Sistem sadece tahmin sunmakla kalmaz, aynı zamanda karşılaştırmalı bir ana
     </tr>
     <tr>
       <td>Enes İnançlı</td>
-      <td><a href="https://www.linkedin.com/in/hazal-t%C3%BCrkmen-21754933a/](https://www.linkedin.com/in/enes-inançlı-9576a81a9/" target="_blank">
+      <td><a href="https://www.linkedin.com/in/enes-inançlı-9576a81a9/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
   </a></td>
     </tr>
