@@ -38,7 +38,6 @@ Desktop.ini
 *.tmp
 *.cache
 *.pickle
-*.pkl
 *.joblib
 
 # Exports and generated files
