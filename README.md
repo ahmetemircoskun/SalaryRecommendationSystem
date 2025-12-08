@@ -1,7 +1,5 @@
 # AI-Based Salary Prediction System
 
-**Gazi University - Group 15**
-
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-orange?style=flat-square)
 
 ---
@@ -95,8 +93,32 @@ Sistem sadece tahmin sunmakla kalmaz, aynı zamanda karşılaştırmalı bir ana
 </details>
 
 ---
-
-### Contact / İletişim
-T3mur: mustaafa.temur.turan@gmail.com
-ahmetemircoskun: aecoskuno@gmail.com
-EnesInancli
+### Group Members
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Social</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr >
+      <td>Ahmet Emir Coşkun</td>
+      <td><a href="https://www.linkedin.com/in/ahmetemircoskun" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
+  </a></td>
+    </tr>
+    <tr>
+      <td>Enes İnançlı</td>
+      <td><a href="https://www.linkedin.com/in/hazal-t%C3%BCrkmen-21754933a/](https://www.linkedin.com/in/enes-inançlı-9576a81a9/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
+  </a></td>
+    </tr>
+    <tr>
+      <td>Mustafa Temur Turan</td>
+      <td><a href="https://www.linkedin.com/in/mustafa-temur-turan-b65656254/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
+  </a></td>
+    </tr>
+  </tbody>
+</table>
