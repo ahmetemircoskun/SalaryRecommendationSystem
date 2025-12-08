@@ -1,4 +1,4 @@
-# AI-Based Salary Prediction System
+# AI-Based Salary Estimation and Recommendation System
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-orange?style=flat-square)
 
